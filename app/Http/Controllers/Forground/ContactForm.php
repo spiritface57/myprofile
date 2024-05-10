@@ -9,6 +9,7 @@ use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Validator;
 use RealRashid\SweetAlert\Facades\Alert;
 use App\Mail\ContactFormMail;
+use Illuminate\Support\Facades\Mail;
 
 class ContactForm extends Controller
 {
