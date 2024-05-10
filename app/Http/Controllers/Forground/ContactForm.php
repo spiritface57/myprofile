@@ -8,6 +8,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Validator;
 use RealRashid\SweetAlert\Facades\Alert;
+use App\Mail\ContactFormMail;
 
 class ContactForm extends Controller
 {
@@ -51,11 +52,12 @@ class ContactForm extends Controller
         if ($validator->fails()) {
             return redirect('/#contact', 302)->withErrors($validator->errors());
         } else {
+            Mail::to(env('MAIL_FROM_ADDRESS'))->send(new ContactFormMail($request->name));
             return redirect('/#contact', 302)
-                    ->with(
-                          'success',
-                          "Thank you for getting in touch! Your message has been received and I appreciate you reaching out. I'll make sure to get back to you as soon as I can. Have a great day!"
-                        );
+                ->with(
+                    'success',
+                    "Thank you for getting in touch! Your message has been received and I appreciate you reaching out. I'll make sure to get back to you as soon as I can. Have a great day!"
+                );
         }
     }
 }
