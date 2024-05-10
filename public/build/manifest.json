@@ -1,0 +1,177 @@
+{
+  "node_modules/aos/dist/aos.css": {
+    "file": "assets/aos-B0a9OMnn.css",
+    "src": "node_modules/aos/dist/aos.css",
+    "isEntry": true
+  },
+  "node_modules/bootstrap-icons/font/bootstrap-icons.min.css": {
+    "file": "assets/bootstrap-icons-CS5BuN65.css",
+    "src": "node_modules/bootstrap-icons/font/bootstrap-icons.min.css",
+    "isEntry": true
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-BOrJxbIo.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-BtvjY1KL.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "node_modules/bootstrap/scss/bootstrap.scss": {
+    "file": "assets/bootstrap-9kx3olKa.css",
+    "src": "node_modules/bootstrap/scss/bootstrap.scss",
+    "isEntry": true
+  },
+  "node_modules/boxicons/css/boxicons.min.css": {
+    "file": "assets/boxicons-Bu1q67CW.css",
+    "src": "node_modules/boxicons/css/boxicons.min.css",
+    "isEntry": true
+  },
+  "node_modules/boxicons/fonts/boxicons.eot": {
+    "file": "assets/boxicons-CSrLvhY_.eot",
+    "src": "node_modules/boxicons/fonts/boxicons.eot"
+  },
+  "node_modules/boxicons/fonts/boxicons.svg": {
+    "file": "assets/boxicons-Dp7W9qN3.svg",
+    "src": "node_modules/boxicons/fonts/boxicons.svg"
+  },
+  "node_modules/boxicons/fonts/boxicons.ttf": {
+    "file": "assets/boxicons-EIQNrSje.ttf",
+    "src": "node_modules/boxicons/fonts/boxicons.ttf"
+  },
+  "node_modules/boxicons/fonts/boxicons.woff": {
+    "file": "assets/boxicons-CTVby2V1.woff",
+    "src": "node_modules/boxicons/fonts/boxicons.woff"
+  },
+  "node_modules/boxicons/fonts/boxicons.woff2": {
+    "file": "assets/boxicons-CeGEncwm.woff2",
+    "src": "node_modules/boxicons/fonts/boxicons.woff2"
+  },
+  "node_modules/glightbox/dist/css/glightbox.min.css": {
+    "file": "assets/glightbox-NJPbyi84.css",
+    "src": "node_modules/glightbox/dist/css/glightbox.min.css",
+    "isEntry": true
+  },
+  "node_modules/sweetalert2/dist/sweetalert2.min.css": {
+    "file": "assets/sweetalert2-dyZLM0kd.css",
+    "src": "node_modules/sweetalert2/dist/sweetalert2.min.css",
+    "isEntry": true
+  },
+  "node_modules/swiper/swiper-bundle.min.css": {
+    "file": "assets/swiper-bundle-BwYzHBUD.css",
+    "src": "node_modules/swiper/swiper-bundle.min.css",
+    "isEntry": true
+  },
+  "node_modules/waypoints/lib/noframework.waypoints.min.js": {
+    "file": "assets/noframework.waypoints.min-DyGnsgCY.js",
+    "name": "noframework.waypoints.min",
+    "src": "node_modules/waypoints/lib/noframework.waypoints.min.js",
+    "isEntry": true
+  },
+  "resources/assets/img/apple-touch-icon.png": {
+    "file": "assets/favicon-CYjPTN5C.png",
+    "src": "resources/assets/img/favicon.png"
+  },
+  "resources/assets/img/favicon.png": {
+    "file": "assets/favicon-CYjPTN5C.png",
+    "src": "resources/assets/img/favicon.png"
+  },
+  "resources/assets/img/hero-bg.jpg": {
+    "file": "assets/hero-bg-CmLBXW4c.jpg",
+    "src": "resources/assets/img/hero-bg.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-1.jpg": {
+    "file": "assets/portfolio-1-DIMPWLqK.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-1.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-2.jpg": {
+    "file": "assets/portfolio-2-DKrUZTtF.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-2.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-3.jpg": {
+    "file": "assets/portfolio-3-PBToakfP.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-3.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-4.jpg": {
+    "file": "assets/portfolio-4-B9Qpk50t.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-4.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-5.jpg": {
+    "file": "assets/portfolio-5-CVM56Ieo.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-5.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-6.jpg": {
+    "file": "assets/portfolio-6-Co-LuAcD.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-6.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-7.jpg": {
+    "file": "assets/portfolio-7-Br2uGZcv.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-7.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-8.jpg": {
+    "file": "assets/portfolio-8-DxvcdQYO.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-8.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-9.jpg": {
+    "file": "assets/portfolio-9-BOR1LnSd.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-9.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-details-1.jpg": {
+    "file": "assets/portfolio-details-1-5oEpX5Vd.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-details-1.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-details-2.jpg": {
+    "file": "assets/portfolio-details-2-DciXgPgT.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-details-2.jpg"
+  },
+  "resources/assets/img/portfolio/portfolio-details-3.jpg": {
+    "file": "assets/portfolio-details-3-BX5lWlOj.jpg",
+    "src": "resources/assets/img/portfolio/portfolio-details-3.jpg"
+  },
+  "resources/assets/img/profile-img.jpg": {
+    "file": "assets/profile-img-BgkHZDIi.jpg",
+    "src": "resources/assets/img/profile-img.jpg"
+  },
+  "resources/assets/img/profile-img1.jpg": {
+    "file": "assets/profile-img1-BwdGVQRe.jpg",
+    "src": "resources/assets/img/profile-img1.jpg"
+  },
+  "resources/assets/img/testimonials/testimonials-1.jpg": {
+    "file": "assets/testimonials-1-b4JYbCou.jpg",
+    "src": "resources/assets/img/testimonials/testimonials-1.jpg"
+  },
+  "resources/assets/img/testimonials/testimonials-2.jpg": {
+    "file": "assets/testimonials-2-cTRH-lUa.jpg",
+    "src": "resources/assets/img/testimonials/testimonials-2.jpg"
+  },
+  "resources/assets/img/testimonials/testimonials-3.jpg": {
+    "file": "assets/testimonials-3-Cx62nxlo.jpg",
+    "src": "resources/assets/img/testimonials/testimonials-3.jpg"
+  },
+  "resources/assets/img/testimonials/testimonials-4.jpg": {
+    "file": "assets/testimonials-4-Cw_ry3m7.jpg",
+    "src": "resources/assets/img/testimonials/testimonials-4.jpg"
+  },
+  "resources/assets/img/testimonials/testimonials-5.jpg": {
+    "file": "assets/testimonials-5-YJXad4fw.jpg",
+    "src": "resources/assets/img/testimonials/testimonials-5.jpg"
+  },
+  "resources/assets/resume/Mahgmoudreza-Abbasi.pdf": {
+    "file": "assets/Mahgmoudreza-Abbasi-BfWhiRhT.pdf",
+    "src": "resources/assets/resume/Mahgmoudreza-Abbasi.pdf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-C8TM4-mo.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-Du3mw4TU.css"
+    ]
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-CWJFHJ7f.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}

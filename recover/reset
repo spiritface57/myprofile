@@ -1,0 +1,3 @@
+ALTER USER 'root@localhost' ACCOUNT UNLOCK
+ALTER USER 'root'@'localhost' IDENTIFIED BY '478221Power';
+FLUSH PRIVILEGES;
