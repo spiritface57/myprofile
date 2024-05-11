@@ -52,11 +52,6 @@
     "src": "node_modules/glightbox/dist/css/glightbox.min.css",
     "isEntry": true
   },
-  "node_modules/sweetalert2/dist/sweetalert2.min.css": {
-    "file": "assets/sweetalert2-dyZLM0kd.css",
-    "src": "node_modules/sweetalert2/dist/sweetalert2.min.css",
-    "isEntry": true
-  },
   "node_modules/swiper/swiper-bundle.min.css": {
     "file": "assets/swiper-bundle-BwYzHBUD.css",
     "src": "node_modules/swiper/swiper-bundle.min.css",
@@ -79,6 +74,10 @@
   "resources/assets/img/hero-bg.jpg": {
     "file": "assets/hero-bg-CmLBXW4c.jpg",
     "src": "resources/assets/img/hero-bg.jpg"
+  },
+  "resources/assets/img/logo.jpg": {
+    "file": "assets/logo-BRQlEu1Y.jpg",
+    "src": "resources/assets/img/logo.jpg"
   },
   "resources/assets/img/portfolio/portfolio-1.jpg": {
     "file": "assets/portfolio-1-DIMPWLqK.jpg",
@@ -161,7 +160,7 @@
     "src": "resources/assets/resume/Mahgmoudreza-Abbasi.pdf"
   },
   "resources/js/app.js": {
-    "file": "assets/app-C8TM4-mo.js",
+    "file": "assets/app-CUUdQNlL.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,

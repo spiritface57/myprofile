@@ -167,22 +167,6 @@
                                                             </tr>
                                                         </tbody>
                                                     </table>
-                                                    <table class="ax-center" role="presentation" align="center"
-                                                        border="0" cellpadding="0" cellspacing="0"
-                                                        style="margin: 0 auto;">
-                                                        <tbody>
-                                                            <tr>
-                                                                <td style="line-height: 24px; font-size: 16px; margin: 0;"
-                                                                    align="left">
-                                                                    <a href="http://mamuza.site">
-                                                                        <img style="height: auto; line-height: 100%; outline: none; text-decoration: none; display: block; width: 96px; border-style: none; border-width: 0;"
-                                                                            width="96"
-                                                                            src="{{ Vite::asset('resources/assets/img/logo.jpg') }}" />
-                                                                    </a>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
                                                     <table class="s-10 w-full" role="presentation" border="0"
                                                         cellpadding="0" cellspacing="0" style="width: 100%;"
                                                         width="100%">
@@ -224,11 +208,35 @@
                                                                     <p class=""
                                                                         style="line-height: 24px; font-size: 16px; width: 100%; margin: 0;"
                                                                         align="left">
-                                                                    <p>Contact Form Submited By: {{ $name }}</p>
-                                                                    <p>Email : {{ $email }}</p>
-                                                                    <p>phone : {{ $phone }}</p>
-                                                                    <p>Subject : {{ $subject1 }}</p>
-                                                                    <p>Message : {{ $message1 }}</p>
+                                                                    <p>Dear {{ $name }},</p>
+                                                                    <p>
+                                                                        Thank you for reaching out to me via the contact
+                                                                        form on Mamuza.site. I truly appreciate your
+                                                                        interest and the time you've taken to get in
+                                                                        touch.
+                                                                    </p>
+                                                                    <p>        
+                                                                        I've received your message and I'm currently
+                                                                        reviewing it. Rest assured, I will respond to
+                                                                        your inquiry as soon as possible. Your thoughts
+                                                                        and questions are important to me, and I'll do
+                                                                        my best to provide you with the information you
+                                                                        need.
+                                                                    </p>
+                                                                    <p>        
+                                                                        While you wait for my response, feel free to
+                                                                        explore Mamuza.site for more insights into my
+                                                                        work and interests. Should you have any
+                                                                        additional questions or concerns in the
+                                                                        meantime, please don't hesitate to reach out
+                                                                        again.
+                                                                    </p>
+                                                                    <p>
+                                                                        Once again, thank you for reaching out. I'm
+                                                                        looking forward to assisting you further!
+                                                                    </p>
+                                                                    <p>Best Regards,</p><p>Mahmoudreza Abbasi</p><p>Mamuza.site</p>    
+                                                                    </p>
                                                                     </p>
                                                                     <table class="s-4 w-full" role="presentation"
                                                                         border="0" cellpadding="0" cellspacing="0"

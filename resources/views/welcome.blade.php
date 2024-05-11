@@ -17,7 +17,8 @@
         {{-- @include('FrontPages.Main.portfolio') --}}
         @include('FrontPages.Main.services')
         {{-- @include('FrontPages.Main.testimonials') --}}
-        @include('FrontPages.Main.contact')
+        {{-- @include('FrontPages.Main.contact') --}}
+        @include('livewire.contact-form-controller')
     </main><!-- End #main -->
     @include('FrontPages.Footer.footer')
 
