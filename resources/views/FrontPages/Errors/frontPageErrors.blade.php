@@ -1,10 +1,12 @@
 @if ($errors->any())
-    @foreach ($errors->all() as $error)
-        <div class="bg-danger text-white m-2 p-4">{{ $error }}</div>
-    @endforeach
+    <div class="bg-danger text-white m-2 p-4">
+        @foreach ($errors->all() as $error)
+            <p>{{ $error }}</p>
+        @endforeach
+    </div>
 @endif
 @if (Session::has('error'))
-        <div class="bg-danger text-white m-2 p-4">{{ Session::get('error') }}</div>
+    <div class="bg-danger text-white m-2 p-4">{{ Session::get('error') }}</div>
 @endif
 @if (Session::has('success'))
     <div class="bg-success text-white m-2 p-4">{{ Session::get('success') }} </div>
