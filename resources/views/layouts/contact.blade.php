@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0GMY9C136Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-0GMY9C136Z');
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -27,6 +40,7 @@
     @livewireStyles
     @vite(['node_modules/waypoints/lib/noframework.waypoints.min.js', 'node_modules/aos/dist/aos.css', 'node_modules/bootstrap-icons/font/bootstrap-icons.min.css', 'node_modules/boxicons/css/boxicons.min.css', 'node_modules/swiper/swiper-bundle.min.css', 'node_modules/glightbox/dist/css/glightbox.min.css', 'node_modules/bootstrap/scss/bootstrap.scss', 'resources/sass/app.scss', 'resources/js/app.js'])
 </head>
+
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
@@ -107,4 +121,5 @@
     </div>
     @livewireScripts
 </body>
+
 </html>
