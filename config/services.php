@@ -35,8 +35,8 @@ return [
         ],
     ],
     // Configure Google ReCAPTCHA v3 key+secret
-    'recaptcha_v3' => [
-        'siteKey' => env('RECAPTCHAV3_SITEKEY'),
-        'secretKey' => env('RECAPTCHAV3_SECRET'),
+    'google_captcha' => [
+        'site_key' => env('RECAPTCHAV3_SITEKEY'),
+        'secret_key' => env('RECAPTCHAV3_SECRET'),
     ],
 ];
