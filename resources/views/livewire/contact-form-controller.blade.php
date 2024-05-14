@@ -43,23 +43,35 @@
                             <div class="col-md-6 form-group">
                                 <input type="text" wire:model="name" wire:loading.attr="disabled"
                                     class="form-control" id="name" placeholder="Your Name" required>
-                                <div class="valid-tooltip">
-                                    Looks good!
-                                </div>
+                                    <div>
+                                        @error('name') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                                    </div>
                             </div>
                             <div class="col-md-6 form-group mt-3 mt-md-0">
                                 <input type="email" class="form-control" wire:model="email" wire:loading.attr='disabled' id="email" placeholder="Your Email" required>
                             </div>
+                            <div>
+                                @error('email') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                            </div>
                         </div>
                         <div class="form-group mt-3">
                             <input type="text" class="form-control" wire:model="phone" wire:loading.attr='disabled' id="phone" placeholder="Phone Number" required>
+                            <div>
+                                @error('phone') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                            </div>
                         </div>
                         <div class="form-group mt-3">
                             <input type="text" class="form-control" wire:model="subject1" wire:loading.attr='disabled' id="subject"
                                 placeholder="Subject" required>
+                                <div>
+                                    @error('subject1') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                                </div>
                         </div>
                         <div class="form-group mt-3">
                             <textarea class="form-control" wire:model="message1" wire:loading.attr='disabled' rows="5" placeholder="Message" required></textarea>
+                            <div>
+                                @error('message1') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                            </div>
                         </div>
 
                         <div class="text-left mt-3">
