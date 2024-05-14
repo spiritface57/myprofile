@@ -49,9 +49,9 @@
                             </div>
                             <div class="col-md-6 form-group mt-3 mt-md-0">
                                 <input type="email" class="form-control" wire:model="email" wire:loading.attr='disabled' id="email" placeholder="Your Email" required>
-                            </div>
-                            <div>
-                                @error('email') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                                <div>
+                                    @error('email') <span class="bg-danger text-white">{{ $message }}</span> @enderror
+                                </div>
                             </div>
                         </div>
                         <div class="form-group mt-3">
