@@ -4,7 +4,7 @@
             <h2>
                 Resume
                 <a class="btn btn-primary"
-                    href="{{ Vite::asset('resources/assets/resume/Mahgmoudreza-Abbasi.pdf') }}"><i
+                    href="{{ Vite::asset('resources/assets/resume/Mahmoudreza-Abbasi.pdf') }}"><i
                         class="bx bx-download"></i></a>
             </h2>
         </div>
