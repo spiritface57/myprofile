@@ -15,8 +15,9 @@ It allows visitors to learn more about his expertise in [mention his area of exp
 
 - Include a section detailing the technologies used to build your website.
 
-```markdown
+
 ## Technology Stack
+
 
 This website was built using the following technologies:
 
