@@ -10,21 +10,27 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-4">
 
                 <img src="{{ Vite::asset('resources/assets/img/profile-img1.jpg') }}" class="img-fluid rounded-5"
                     alt="">
             </div>
-            <div class="col-lg-9 pt-4 pt-lg-0 content">
+            <div class="col-lg-8 pt-4 pt-lg-0 content">
                 <h3>Full-Stack Web Developer</h3>
                 <p class="fst">
-                    Highly skilled Full-Stack Software Developer with 15+ years of experience in designing,
-                    developing, and maintaining complex software systems. Proven ability to deliver
-                    high-performance solutions across various technical environments. Possesses exceptional
-                    problem-solving skills and thrives in collaborative work settings. Eager to leverage expertise in
-                    emerging technologies to contribute to a dynamic and innovative team.
+                    I am a highly skilled Full-Stack Software Developer with over 15 years of experience in designing,
+                    developing, and maintaining complex software systems. My expertise spans a wide array of programming
+                    languages, including PHP, Java, Python, VB.NET, SQL, XML, HTML, CSS, JavaScript, jQuery, and NodeJS,
+                    as well as front-end technologies like Bootstrap, Livewire, React, and Vue.js, and back-end
+                    frameworks such as Laravel and Django. I am proficient in working with databases like MySQL,
+                    PostgreSQL, MS SQL Server, MongoDB, and Redis, and have robust system administration skills
+                    encompassing Apache, Nginx, DNS, Email, Docker, VMware, and more. Recently, my focus has been on
+                    leveraging React and Livewire for front-end development and Laravel PHP for back-end, with MySQL and
+                    Redis as databases. I am code-independent, capable of utilizing various technologies based on
+                    project requirements, and thrive in collaborative environments, always eager to leverage my
+                    expertise in emerging technologies to contribute to a dynamic and innovative team.
                 </p>
-                <hr/>
+                <hr />
                 <div class="row">
                     <div class="col-lg-6">
                         <ul>

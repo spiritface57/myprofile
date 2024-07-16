@@ -13,6 +13,7 @@ export default defineConfig({
                 'node_modules/swiper/swiper-bundle.min.css',
                 'node_modules/bootstrap/scss/bootstrap.scss',
                 'resources/sass/app.scss',
+                'resources/css/style.css',
                 'resources/js/app.js',
             ],
             refresh: true,

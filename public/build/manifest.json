@@ -156,8 +156,13 @@
     "src": "resources/assets/img/testimonials/testimonials-5.jpg"
   },
   "resources/assets/resume/Mahmoudreza-Abbasi.pdf": {
-    "file": "assets/Mahmoudreza-Abbasi-k8czXH90.pdf",
+    "file": "assets/Mahmoudreza-Abbasi-CSsPBkwK.pdf",
     "src": "resources/assets/resume/Mahmoudreza-Abbasi.pdf"
+  },
+  "resources/css/style.css": {
+    "file": "assets/style-EoVeLV9g.css",
+    "src": "resources/css/style.css",
+    "isEntry": true
   },
   "resources/js/app.js": {
     "file": "assets/app-CUUdQNlL.js",
@@ -169,7 +174,7 @@
     ]
   },
   "resources/sass/app.scss": {
-    "file": "assets/app-CWJFHJ7f.css",
+    "file": "assets/app-sEhFnVTV.css",
     "src": "resources/sass/app.scss",
     "isEntry": true
   }

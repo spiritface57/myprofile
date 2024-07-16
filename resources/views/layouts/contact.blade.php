@@ -38,7 +38,7 @@
     </style>
     @include('sweetalert::alert')
     @livewireStyles
-    @vite(['node_modules/waypoints/lib/noframework.waypoints.min.js', 'node_modules/aos/dist/aos.css', 'node_modules/bootstrap-icons/font/bootstrap-icons.min.css', 'node_modules/boxicons/css/boxicons.min.css', 'node_modules/swiper/swiper-bundle.min.css', 'node_modules/glightbox/dist/css/glightbox.min.css', 'node_modules/bootstrap/scss/bootstrap.scss', 'resources/sass/app.scss', 'resources/js/app.js'])
+    @vite(['node_modules/waypoints/lib/noframework.waypoints.min.js', 'node_modules/aos/dist/aos.css', 'node_modules/bootstrap-icons/font/bootstrap-icons.min.css', 'node_modules/boxicons/css/boxicons.min.css', 'node_modules/swiper/swiper-bundle.min.css', 'node_modules/glightbox/dist/css/glightbox.min.css', 'node_modules/bootstrap/scss/bootstrap.scss', 'resources/sass/app.scss','resources/css/style.css', 'resources/js/app.js'])
 </head>
 
 <body>
