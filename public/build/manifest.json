@@ -63,13 +63,13 @@
     "src": "node_modules/waypoints/lib/noframework.waypoints.min.js",
     "isEntry": true
   },
-  "resources/assets/img/apple-touch-icon.png": {
-    "file": "assets/favicon-CYjPTN5C.png",
-    "src": "resources/assets/img/favicon.png"
+  "resources/assets/img/apple-touch-icon.jpg": {
+    "file": "assets/logo-BRQlEu1Y.jpg",
+    "src": "resources/assets/img/logo.jpg"
   },
-  "resources/assets/img/favicon.png": {
-    "file": "assets/favicon-CYjPTN5C.png",
-    "src": "resources/assets/img/favicon.png"
+  "resources/assets/img/favicon.jpg": {
+    "file": "assets/logo-BRQlEu1Y.jpg",
+    "src": "resources/assets/img/logo.jpg"
   },
   "resources/assets/img/hero-bg.jpg": {
     "file": "assets/hero-bg-CmLBXW4c.jpg",
